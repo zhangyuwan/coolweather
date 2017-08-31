@@ -1,5 +1,7 @@
 package android.coolweather.com.coolweather.db;
 
+import org.litepal.crud.DataSupport;
+
 /**
  * Created by zhangxinmu on 2017/8/31.
  */
